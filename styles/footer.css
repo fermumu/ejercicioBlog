@@ -4,7 +4,7 @@ background-color: #dc8835;
 padding: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.footer-contenedor{
+#footer-contenedor{
 display: flex;
 justify-content: space-between;
 flex-wrap: wrap;
